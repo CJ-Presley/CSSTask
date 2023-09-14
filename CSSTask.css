@@ -1,0 +1,15 @@
+.row{
+    width: 100%;
+}
+.col50{
+    text-align: center;
+    /*float: left;*/
+    vertical-align: middle;
+    border: 1px solid white;
+    display: table-cell;
+    width: 50%;
+}
+.column-content{
+    width: 90%;
+    padding: 5%;
+}
